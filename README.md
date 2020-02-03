@@ -7,3 +7,7 @@ SEO(search engine optimization) can be achieved with a well thought and well str
 One needs to have clear ideas of how the webpage will look like and how content will flow on the page.
 This is achieved by understanding the target audience,the developer sometimes needs to step into the shoes of the audience and understand what they want.
 Most developers leave this to the Market department
+A website should be easy to use and navigate
+The use of sitelinks help to make the website easy to use.
+A website should have title tags that are clear,appropriate,catchy so as to boast a click chance.
+A website should have relevant,short and precise information for the audience

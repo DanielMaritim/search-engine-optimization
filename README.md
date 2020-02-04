@@ -11,3 +11,8 @@ A website should be easy to use and navigate
 The use of sitelinks help to make the website easy to use.
 A website should have title tags that are clear,appropriate,catchy so as to boast a click chance.
 A website should have relevant,short and precise information for the audience
+Include keywords on the title of the website.They should indicate the purpose of the website.Keywords help to make it easy for the search engine to pick up the website.Its important to place keywords at the beginning of the wedsite title.
+Always get into the shoes of the user/audience you intend to target.Dont not overcomplicate things for the user.Have a clear and precise title.
+Make use of metatags.Meta tags are snippets of text that describe the page content.They however do not appear on the page when it loads.
+Metatags are like small descriptors of the website to help the search engine know what the webpage is all about.They are usually placed inside the head element of the HTML document.
+<meta name="" content=""> keywords are placed inside the quotation marks.They usually carry 160 characters.

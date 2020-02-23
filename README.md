@@ -5,7 +5,7 @@ Search engine optimization is the process of increasing the quality and quantity
 
 This is one of the most vital things that a developer needs to know.
 
-It involves a few steps taht when adhered to,they can really help improve traffic to a website.
+It involves a few steps that when adhered to,they can really help improve traffic to a website.
 
 SEO(search engine optimization) can be achieved with a well thought and well structured website.
 

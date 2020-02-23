@@ -13,7 +13,10 @@ One needs to have clear ideas of how the webpage will look like and how content 
 
 This is achieved by understanding the target audience,the developer sometimes needs to step into the shoes of the audience and understand what they want.
 
-Most developers leave this to the Market department
+Most developers leave this to the Market department.
+
+Site structure is a vital aspect of your SEO strategy. The structure of your website shows a search engine which pages of your site are most important. This means you can influence which articles will rank highest in the search engines with your site's structure.
+
 A website should be easy to use and navigate.
 
 The use of sitelinks help to make the website easy to use.
